@@ -1,4 +1,4 @@
-# Angry Birds
+# Survival Shooter
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,13 +9,13 @@
 * [License](#license)
 
 ## General info
-Sebuah repository untuk assignment project "Match Three" dari [DILo Game Academy](https://academy.dilo.id) yang dibuat menggunakan Unity Engine.
+Sebuah repository untuk assignment project "Survival Shooter" dari [DILo Game Academy](https://academy.dilo.id) yang dibuat menggunakan Unity Engine.
 Dikembangkan oleh Brian Wijaya.
 
 ## Screenshots
-![alt text](https://github.com/briannzw/Match-Three/blob/master/Screenshots/Screenshot%201.png "Screenshot 1")
-![alt text](https://github.com/briannzw/Match-Three/blob/master/Screenshots/Screenshot%202.png "Screenshot 2")
-Special Tile diwakilkan oleh "Special Star" berwarna merah yang mengeliminasi semua tile yang match.
+![alt text](https://github.com/briannzw/Survival-Shooter/blob/master/Screenshots/Screenshot%201.png "Screenshot 1")
+Speed Power-up dan Heal Power-up didapatkan setelah membunuh musuh dengan chance tertentu.
+![alt text](https://github.com/briannzw/Survival-Shooter/blob/master/Screenshots/Screenshot%202.png "Screenshot 2")
 	
 ## Technologies
 Project is created with:
@@ -29,4 +29,4 @@ This project is based on course by [DILo Game Academy](https://academy.dilo.id).
 To run this project, download this project in .zip, extract it locally, then add the project from your Unity Hub.
 
 ## License
-[MIT License](https://github.com/briannzw/Match-Three/blob/master/LICENSE)
+[MIT License](https://github.com/briannzw/Survival-Shooter/blob/master/LICENSE)
