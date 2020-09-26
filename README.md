@@ -19,7 +19,7 @@ Speed Power-up dan Heal Power-up didapatkan setelah membunuh musuh dengan chance
 	
 ## Technologies
 Project is created with:
-* Unity version : Unity 2020.1.3f1
+* Unity version : Unity 2019.4.11f1 (LTS)
 * OS : Windows 64-bit
 
 ## Sources
